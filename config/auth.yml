@@ -1,0 +1,10 @@
+enable_mobile:
+  Default: 0
+
+enable_pc:
+  Default: 1
+
+admin_invite:
+  Default:  false
+
+

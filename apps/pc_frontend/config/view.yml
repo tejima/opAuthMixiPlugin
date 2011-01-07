@@ -1,0 +1,2 @@
+default:
+  stylesheets:    [/opAuthMixiPlugin/css/main.css]
