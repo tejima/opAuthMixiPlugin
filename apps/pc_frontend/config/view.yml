@@ -1,2 +1,3 @@
-default:
-  stylesheets:    [/opAuthMixiPlugin/css/main.css]
+all:
+  stylesheets:    [/opAuthGoogleAppsPlugin/css/main.css]
+
